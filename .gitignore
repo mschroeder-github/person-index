@@ -1,0 +1,4 @@
+/target/
+pipeline-output
+ground-truth-folder
+en-ner-person.bin
